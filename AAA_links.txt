@@ -1,0 +1,10 @@
+Python 3
+    Декоратор
+        Часть 1 https://habr.com/ru/post/141411/
+
+    функции callable
+        https://docs-python.ru/tutorial/vstroennye-funktsii-interpretatora-python/funktsija-callable/
+
+    GIL - Global interpreter lock и как ускорить питон, чтобы он работал со скоростью плюсов
+        https://docs-python.ru/tutorial/mnogopotochnost-python/global-interpreter-lock-gil/
+        https://habr.com/ru/post/238703/

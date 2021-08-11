@@ -1,0 +1,90 @@
+Time of starting 2021.01.08 23:30:57
+sum of [1, 2, 3, 4, 5] is 15
+
+Time of starting 2021.01.08 23:32:34
+sum of [1, 2, 3, 4, 5] is 15
+What is going on? It is working or not?
+{2: '5', '2': 2}
+
+Time of starting 2021.01.08 23:41:12
+sum of [1, 2, 3, 4, 5] is 15
+What is going on? It is working or not?
+{2: '5', '2': 2}
+This dictionary declare like dict[int, str]
+
+Time of starting 2021.01.08 23:42:03
+sum of [1, 2, 3, 4, 5] is 15
+What is going on? It is working or not?
+{2: '5', '2': 2}
+This dictionary declare like dict[int, str]
+666
+
+
+Time of starting 2021.01.08 23:54:16
+sum of [1, 2, 3, 4, 5] is 15
+What is going on? It is working or not?
+{2: '5', '2': 2}
+This dictionary declare like dict[int, str]
+666
+New Type <class '__main__.Pair'>
+
+Time of starting 2021.01.09 00:03:01
+sum of [1, 2, 3, 4, 5] is 15
+What is going on? It is working or not?
+{2: '5', '2': 2}
+This dictionary declare like dict[int, str]
+666
+New Type <class '__main__.Pair'>
+
+Time of starting 2021.01.09 00:24:49
+sum of [1, 2, 3, 4, 5] is 15
+What is going on? It is working or not?
+{2: '5', '2': 2}
+This dictionary declare like dict[int, str]
+666
+New Type <class '__main__.Pair'>
+New NumPy type('<c16', (2,))
+
+Time of starting 2021.01.09 00:46:05
+sum of [1, 2, 3, 4, 5] is 15
+What is going on? It is working or not?
+{2: '5', '2': 2}
+This dictionary declare like dict[int, str]
+666
+New Type <class '__main__.Pair'>
+
+Time of starting 2021.01.09 00:57:51
+sum of [1, 2, 3, 4, 5] is 15
+What is going on? It is working or not?
+{2: '5', '2': 2}
+This dictionary declare like dict[int, str]
+666
+New Type <class '__main__.Pair'>
+
+Time of starting 2021.01.09 00:57:57
+sum of [1, 2, 3, 4, 5] is 15
+What is going on? It is working or not?
+{2: '5', '2': 2}
+This dictionary declare like dict[int, str]
+666
+New Type <class '__main__.Pair'>
+
+Time of starting 2021.01.09 00:58:47
+sum of [1, 2, 3, 4, 5] is 15
+What is going on? It is working or not?
+{2: '5', '2': 2}
+This dictionary declare like dict[int, str]
+666
+New Type <class '__main__.Pair'>
+I'm a decorator
+New NumPy type('<c16', (2,))
+
+Time of starting 2021.07.10 19:36:33
+sum of [1, 2, 3, 4, 5] is 15
+What is going on? It is working or not?
+{2: '5', '2': 2}
+This dictionary declare like dict[int, str]
+666
+New Type <class '__main__.Pair'>
+I'm a decorator
+New NumPy type('<c16', (2,))

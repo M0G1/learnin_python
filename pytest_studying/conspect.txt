@@ -1,0 +1,6 @@
+https://www.linkedin.com/learning/unit-testing-and-test-driven-development-in-python/test-doubles-unittest-mock-and-monkeypatch-overview?u=2113185
+
+Types of test Doubles:
+
+    * dummy - object that can be passed around as necessary,
+    but do not have any type of test implementation and should never be used
