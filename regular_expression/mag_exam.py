@@ -1,12 +1,11 @@
-"""
-python 3.9
+"""python 3.9
 На любом языке программирования реализовать функцию, принимающую в
 качестве входного параметра строку, в которой производится замена всех
 первых букв после точек на заглавные
 """
 import re
 
-ss = ".a .b asdgasd.e . aasdf"
+ss = ".a .b asdgasd.e . 131234aasdf. mama . A"
 pattern = re.compile(r"\.([^A-Za-z])*[a-z]")
 
 
@@ -16,6 +15,7 @@ def upper_match(s: re.Match):
 
 def up_letter_after_dot(s: str):
     return re.sub(pattern, upper_match, s)
+
 
 def up_letter_after_dot_simple(s: str):
     answer = ""
@@ -31,6 +31,7 @@ def up_letter_after_dot_simple(s: str):
         answer = answer + s[ii]
         ii = ii + 1
     return answer
+
 
 print("use re: ", up_letter_after_dot(ss))
 print("simple: ", up_letter_after_dot_simple(ss))
