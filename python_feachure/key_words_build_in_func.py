@@ -35,10 +35,21 @@ def callable_():
     print("numpy array is " + ("" if callable(arr) else "not ") + "callable")
 
 
+def arg_mutable(l: list = []):
+    l.append(len(l))
+    print(l)
+
+
+def arg_save_test():
+    arg_mutable()
+    arg_mutable()
+
+
 def main():
     # enumeration()
     # compile_()
-    callable_()
+    # callable_()
+    arg_save_test()
 
 
 if __name__ == '__main__':
